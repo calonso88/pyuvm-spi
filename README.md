@@ -4,7 +4,7 @@ This project develops an open-source, reusable SPI (Serial Peripheral Interface)
 
 ## ✨ Planned Features
 
-- SPI Master and Slave agents
+- SPI Producer and Consumer agents
 - Support for SPI modes 0–3 (CPOL/CPHA)
 - Protocol checking and error injection
 - Functional coverage and scoreboard
